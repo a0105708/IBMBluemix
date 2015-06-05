@@ -1,0 +1,6 @@
+---
+applications:
+- name: bluemixTest
+  memory: 128M
+  host: Wangtianqi1992BluemixTest
+  timeout: 60
